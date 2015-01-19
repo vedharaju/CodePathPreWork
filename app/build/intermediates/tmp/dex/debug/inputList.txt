@@ -1,0 +1,6 @@
+/Users/vedharaju/AndroidStudioProjects/SimpleToDo/app/build/intermediates/classes/debug
+/Users/vedharaju/AndroidStudioProjects/SimpleToDo/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-bac06a02ef2ecd4fb9771402ebd737bd040e65ea.jar
+/Users/vedharaju/AndroidStudioProjects/SimpleToDo/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-a7b483732968a94814b9be5472d8854a760b4620.jar
+/Users/vedharaju/AndroidStudioProjects/SimpleToDo/app/build/intermediates/pre-dexed/debug/commons-io-2.4-e729f051a290a122f55e9fc261985af97598e617.jar
+/Users/vedharaju/AndroidStudioProjects/SimpleToDo/app/build/intermediates/pre-dexed/debug/classes-59eaede8054e9da2cc3b06991dfd759f59752295.jar
+/Users/vedharaju/AndroidStudioProjects/SimpleToDo/app/build/intermediates/pre-dexed/debug/classes-452505cbea22708fd4993c375bd730c87c9f6ecc.jar
